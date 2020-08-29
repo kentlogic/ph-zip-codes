@@ -1,0 +1,1812 @@
+[
+  {
+    "city": "Manila",
+    "area": "Binondo",
+    "zip": 1006
+  },
+  {
+    "city": "Manila",
+    "area": "Intramuros",
+    "zip": 1002
+  },
+  {
+    "city": "Manila",
+    "area": "Malate",
+    "zip": 1004
+  },
+  {
+    "city": "Manila",
+    "area": "Manila CPO - Ermita",
+    "zip": 1000
+  },
+  {
+    "city": "Manila",
+    "area": "Paco",
+    "zip": 1007
+  },
+  {
+    "city": "Manila",
+    "area": "Pandacan",
+    "zip": 1011
+  },
+  {
+    "city": "Manila",
+    "area": "Port area (South)",
+    "zip": 1018
+  },
+  {
+    "city": "Manila",
+    "area": "Quiapo",
+    "zip": 1001
+  },
+  {
+    "city": "Manila",
+    "area": "Sampaloc East",
+    "zip": 1008
+  },
+  {
+    "city": "Manila",
+    "area": "Sampaloc West",
+    "zip": 1015
+  },
+  {
+    "city": "Manila",
+    "area": "San Andres Bukid",
+    "zip": 1017
+  },
+  {
+    "city": "Manila",
+    "area": "San Miguel",
+    "zip": 1005
+  },
+  {
+    "city": "Manila",
+    "area": "San Nicolas",
+    "zip": 1010
+  },
+  {
+    "city": "Manila",
+    "area": "Sta. Ana",
+    "zip": 1009
+  },
+  {
+    "city": "Manila",
+    "area": "Sta Cruz North",
+    "zip": 1014
+  },
+  {
+    "city": "Manila",
+    "area": "Sta Cruz South",
+    "zip": 1003
+  },
+  {
+    "city": "Manila",
+    "area": "Sta Mesa",
+    "zip": 1016
+  },
+  {
+    "city": "Manila",
+    "area": "Tondo North",
+    "zip": 1013
+  },
+  {
+    "city": "Manila",
+    "area": "Tondo South",
+    "zip": 1012
+  },
+  {
+    "city": "Caloocan North",
+    "area": "Amparo Subdivision",
+    "zip": 1425
+  },
+  {
+    "city": "Caloocan North",
+    "area": "Bagong Silang",
+    "zip": 1428
+  },
+  {
+    "city": "Caloocan North",
+    "area": "Bagumbong / Pag-asa",
+    "zip": 1421
+  },
+  {
+    "city": "Caloocan North",
+    "area": "Bankers Village",
+    "zip": 1426
+  },
+  {
+    "city": "Caloocan North",
+    "area": "Capitol Parkland Subdivision",
+    "zip": 1424
+  },
+  {
+    "city": "Caloocan North",
+    "area": "Kaybiga/Deparo",
+    "zip": 1420
+  },
+  {
+    "city": "Caloocan North",
+    "area": "Lilles Ville Subdivision",
+    "zip": 1423
+  },
+  {
+    "city": "Caloocan North",
+    "area": "Novaliches North (Camarin North)",
+    "zip": 1422
+  },
+  {
+    "city": "Caloocan North",
+    "area": "Tala Leprosarium",
+    "zip": 1427
+  },
+  {
+    "city": "Caloocan North",
+    "area": "Victory Heights",
+    "zip": 1427
+  },
+  {
+    "city": "Caloocan South",
+    "area": "1st Ave. to 7th Ave. - West",
+    "zip": 1405
+  },
+  {
+    "city": "Caloocan South",
+    "area": "Baesa",
+    "zip": 1401
+  },
+  {
+    "city": "Caloocan South",
+    "area": "Fish Market",
+    "zip": 1411
+  },
+  {
+    "city": "Caloocan South",
+    "area": "Grace Park East",
+    "zip": 1403
+  },
+  {
+    "city": "Caloocan South",
+    "area": "Grace Park West",
+    "zip": 1406
+  },
+  {
+    "city": "Caloocan South",
+    "area": "Isla de Cocomo",
+    "zip": 1412
+  },
+  {
+    "city": "Caloocan South",
+    "area": "Caloocan city CPO",
+    "zip": 1400
+  },
+  {
+    "city": "Caloocan South",
+    "area": "Kapitbahayan East",
+    "zip": 1413
+  },
+  {
+    "city": "Caloocan South",
+    "area": "Kaunlaran Village",
+    "zip": 1409
+  },
+  {
+    "city": "Caloocan South",
+    "area": "Maypajo",
+    "zip": 1410
+  },
+  {
+    "city": "Caloocan South",
+    "area": "San Jose",
+    "zip": 1404
+  },
+  {
+    "city": "Caloocan South",
+    "area": "Sangandaan",
+    "zip": 1408
+  },
+  {
+    "city": "Caloocan South",
+    "area": "Sta. Quiteria",
+    "zip": 1402
+  },
+  {
+    "city": "Caloocan South",
+    "area": "University Hills",
+    "zip": 1407
+  },
+  {
+    "city": "Las Pinas",
+    "area": "Almanza",
+    "zip": 1750
+  },
+  {
+    "city": "Las Pinas",
+    "area": "Angela Village",
+    "zip": 1749
+  },
+  {
+    "city": "Las Pinas",
+    "area": "Cut-cut",
+    "zip": 1743
+  },
+  {
+    "city": "Las Pinas",
+    "area": "Gatchalian Subdivision",
+    "zip": 1745
+  },
+  {
+    "city": "Las Pinas",
+    "area": "Las Piñas CPO",
+    "zip": 1740
+  },
+  {
+    "city": "Las Pinas",
+    "area": "Manila Doctors Village",
+    "zip": 1748
+  },
+  {
+    "city": "Las Pinas",
+    "area": "Manuyo",
+    "zip": 1744
+  },
+  {
+    "city": "Las Pinas",
+    "area": "Pulang Lupa",
+    "zip": 1742
+  },
+  {
+    "city": "Las Pinas",
+    "area": "Remarville Subdivision",
+    "zip": 1741
+  },
+  {
+    "city": "Las Pinas",
+    "area": "Soldiers Hills Subdivision",
+    "zip": 1752
+  },
+  {
+    "city": "Las Pinas",
+    "area": "T. S. Cruz Subdivision",
+    "zip": 1751
+  },
+  {
+    "city": "Las Pinas",
+    "area": "Talon, Moonwalk",
+    "zip": 1747
+  },
+  {
+    "city": "Las Pinas",
+    "area": "Verdant Acres Subdivision",
+    "zip": 1746
+  },
+  {
+    "city": "Las Pinas",
+    "area": "Zapote",
+    "zip": 1742
+  },
+  {
+    "city": "Makati",
+    "area": "Ayala-Paseo De Roxas",
+    "zip": 1226
+  },
+  {
+    "city": "Makati",
+    "area": "Bangkal",
+    "zip": 1233
+  },
+  {
+    "city": "Makati",
+    "area": "Bel-air",
+    "zip": 1209
+  },
+  {
+    "city": "Makati",
+    "area": "Cembo",
+    "zip": 1214
+  },
+  {
+    "city": "Makati",
+    "area": "Comembo",
+    "zip": 1217
+  },
+  {
+    "city": "Makati",
+    "area": "Dasmarinas Village North",
+    "zip": 1221
+  },
+  {
+    "city": "Makati",
+    "area": "Dasmarinas Village South",
+    "zip": 1222
+  },
+  {
+    "city": "Makati",
+    "area": "Forbes Park North",
+    "zip": 1219
+  },
+  {
+    "city": "Makati",
+    "area": "Forbes Park South",
+    "zip": 1220
+  },
+  {
+    "city": "Makati",
+    "area": "Fort Bonifacio Naval Stn.",
+    "zip": 1202
+  },
+  {
+    "city": "Makati",
+    "area": "Greenbelt",
+    "zip": 1228
+  },
+  {
+    "city": "Makati",
+    "area": "Guadalupe Nuevo (Inc. Visayan)",
+    "zip": 1212
+  },
+  {
+    "city": "Makati",
+    "area": "Guadalupe Viejo (Inc. Palm Vil)",
+    "zip": 1211
+  },
+  {
+    "city": "Makati",
+    "area": "Kasilawan",
+    "zip": 1206
+  },
+  {
+    "city": "Makati",
+    "area": "La Paz-Singkamas-Tejeros",
+    "zip": 1204
+  },
+  {
+    "city": "Makati",
+    "area": "Legaspi Village",
+    "zip": 1229
+  },
+  {
+    "city": "Makati",
+    "area": "Magallanes Village",
+    "zip": 1232
+  },
+  {
+    "city": "Makati",
+    "area": "Commercial Center",
+    "zip": 1224
+  },
+  {
+    "city": "Makati",
+    "area": "Makati CPO (Inc, Buendia Up To",
+    "zip": 1200
+  },
+  {
+    "city": "Makati",
+    "area": "Olympia And Carmona",
+    "zip": 1207
+  },
+  {
+    "city": "Makati",
+    "area": "Palanan",
+    "zip": 1235
+  },
+  {
+    "city": "Makati",
+    "area": "Pasong Tamo 2000 Up, Ecology V",
+    "zip": 1231
+  },
+  {
+    "city": "Makati",
+    "area": "Pembo",
+    "zip": 1218
+  },
+  {
+    "city": "Makati",
+    "area": "Pinagkaisahan-pitogo",
+    "zip": 1213
+  },
+  {
+    "city": "Makati",
+    "area": "Pio Del Pilar",
+    "zip": 1230
+  },
+  {
+    "city": "Makati",
+    "area": "Poblacion",
+    "zip": 1210
+  },
+  {
+    "city": "Makati",
+    "area": "Rembo (East) & Malapad Na Bato",
+    "zip": 1216
+  },
+  {
+    "city": "Makati",
+    "area": "Rembo(west)",
+    "zip": 1215
+  },
+  {
+    "city": "Makati",
+    "area": "Salcedo Village",
+    "zip": 1227
+  },
+  {
+    "city": "Makati",
+    "area": "San Antonio Village (Inc. Malu)",
+    "zip": 1203
+  },
+  {
+    "city": "Makati",
+    "area": "San Isidro",
+    "zip": 1234
+  },
+  {
+    "city": "Makati",
+    "area": "San Lorenzo Village",
+    "zip": 1223
+  },
+  {
+    "city": "Makati",
+    "area": "Sta. Cruz",
+    "zip": 1205
+  },
+  {
+    "city": "Makati",
+    "area": "Urdaneta Village",
+    "zip": 1225
+  },
+  {
+    "city": "Makati",
+    "area": "Valenzuela (Inc. Santiago, San Miguel & Rizal Vill.)",
+    "zip": 1208
+  },
+  {
+    "city": "Malabon",
+    "area": "Acacia",
+    "zip": 1474
+  },
+  {
+    "city": "Malabon",
+    "area": "Araneta Subdivision",
+    "zip": 1476
+  },
+  {
+    "city": "Malabon",
+    "area": "Dampalit",
+    "zip": 1480
+  },
+  {
+    "city": "Malabon",
+    "area": "Flores",
+    "zip": 1471
+  },
+  {
+    "city": "Malabon",
+    "area": "Kaunlaran Village",
+    "zip": 1409
+  },
+  {
+    "city": "Malabon",
+    "area": "Longos",
+    "zip": 1472
+  },
+  {
+    "city": "Malabon",
+    "area": "Malabon",
+    "zip": 1470
+  },
+  {
+    "city": "Malabon",
+    "area": "Maysilo",
+    "zip": 1477
+  },
+  {
+    "city": "Malabon",
+    "area": "Muzon",
+    "zip": 1479
+  },
+  {
+    "city": "Malabon",
+    "area": "Potrero",
+    "zip": 1475
+  },
+  {
+    "city": "Malabon",
+    "area": "Santolan",
+    "zip": 1478
+  },
+  {
+    "city": "Malabon",
+    "area": "Tonsuya",
+    "zip": 1473
+  },
+  {
+    "city": "Mandaluyong",
+    "area": "East Edsa",
+    "zip": 1554
+  },
+  {
+    "city": "Mandaluyong",
+    "area": "Greenhills South",
+    "zip": 1556
+  },
+  {
+    "city": "Mandaluyong",
+    "area": "Mandaluyong CPO",
+    "zip": 1550
+  },
+  {
+    "city": "Mandaluyong",
+    "area": "Phil. Natl. Mental Hospital",
+    "zip": 1553
+  },
+  {
+    "city": "Mandaluyong",
+    "area": "Shaw Boulevard",
+    "zip": 1552
+  },
+  {
+    "city": "Mandaluyong",
+    "area": "Vergara",
+    "zip": 1551
+  },
+  {
+    "city": "Mandaluyong",
+    "area": "Wack Wack Golf",
+    "zip": 1555
+  },
+  {
+    "city": "Marikina",
+    "area": "Barangka",
+    "zip": 1803
+  },
+  {
+    "city": "Marikina",
+    "area": "Concepcion 1",
+    "zip": 1807
+  },
+  {
+    "city": "Marikina",
+    "area": "Concepcion 2",
+    "zip": 1811
+  },
+  {
+    "city": "Marikina",
+    "area": "Fortune",
+    "zip": 1812
+  },
+  {
+    "city": "Marikina",
+    "area": "Industrial Valley",
+    "zip": 1802
+  },
+  {
+    "city": "Marikina",
+    "area": "J. De La Peña",
+    "zip": 1804
+  },
+  {
+    "city": "Marikina",
+    "area": "Malanday",
+    "zip": 1805
+  },
+  {
+    "city": "Marikina",
+    "area": "Marikina CPO - Sta. Elena - Sto. Niño",
+    "zip": 1800
+  },
+  {
+    "city": "Marikina",
+    "area": "Marikina Heights",
+    "zip": 1810
+  },
+  {
+    "city": "Marikina",
+    "area": "Nangka",
+    "zip": 1808
+  },
+  {
+    "city": "Marikina",
+    "area": "Tumana",
+    "zip": 1806
+  },
+  {
+    "city": "Marikina",
+    "area": "Parang",
+    "zip": 1809
+  },
+  {
+    "city": "Marikina",
+    "area": "San Roque - Calumpang",
+    "zip": 1801
+  },
+  {
+    "city": "Marikina",
+    "area": "Tañong",
+    "zip": 1803
+  },
+  {
+    "city": "Muntinlupa",
+    "area": "Ayala Alabang P.O. Boxes",
+    "zip": 1799
+  },
+  {
+    "city": "Muntinlupa",
+    "area": "Ayala Alabang Subdivision",
+    "zip": 1780
+  },
+  {
+    "city": "Muntinlupa",
+    "area": "Bayanan/Putatan",
+    "zip": 1772
+  },
+  {
+    "city": "Muntinlupa",
+    "area": "Bule/Cupang",
+    "zip": 1771
+  },
+  {
+    "city": "Muntinlupa",
+    "area": "Filinvest Corp. city",
+    "zip": 1781
+  },
+  {
+    "city": "Muntinlupa",
+    "area": "Muntinlupa CPO",
+    "zip": 1770
+  },
+  {
+    "city": "Muntinlupa",
+    "area": "Pearl Heights",
+    "zip": 1775
+  },
+  {
+    "city": "Muntinlupa",
+    "area": "Pleasant Village",
+    "zip": 1777
+  },
+  {
+    "city": "Muntinlupa",
+    "area": "Poblacion",
+    "zip": 1776
+  },
+  {
+    "city": "Muntinlupa",
+    "area": "Susana Heights",
+    "zip": 1774
+  },
+  {
+    "city": "Muntinlupa",
+    "area": "Tunasan",
+    "zip": 1773
+  },
+  {
+    "city": "Navotas",
+    "area": "Fish Market",
+    "zip": 1411
+  },
+  {
+    "city": "Navotas",
+    "area": "Isla De Cocomo",
+    "zip": 1412
+  },
+  {
+    "city": "Navotas",
+    "area": "Kapitbahayan East",
+    "zip": 1413
+  },
+  {
+    "city": "Navotas",
+    "area": "Kaunlaran Village",
+    "zip": 1409
+  },
+  {
+    "city": "Navotas",
+    "area": "Navotas",
+    "zip": 1485
+  },
+  {
+    "city": "Navotas",
+    "area": "Tangos",
+    "zip": 1489
+  },
+  {
+    "city": "Navotas",
+    "area": "Tanza",
+    "zip": 1490
+  },
+  {
+    "city": "Paranaque",
+    "area": "Aeropark Subdivision",
+    "zip": 1714
+  },
+  {
+    "city": "Paranaque",
+    "area": "Baclaran",
+    "zip": 1702
+  },
+  {
+    "city": "Paranaque",
+    "area": "Better Living Subdivision",
+    "zip": 1711
+  },
+  {
+    "city": "Paranaque",
+    "area": "Bf Homes 1",
+    "zip": 1720
+  },
+  {
+    "city": "Paranaque",
+    "area": "Bf Homes 2",
+    "zip": 1718
+  },
+  {
+    "city": "Paranaque",
+    "area": "Executive Heights Subd.",
+    "zip": 1710
+  },
+  {
+    "city": "Paranaque",
+    "area": "Ireneville Ii",
+    "zip": 1714
+  },
+  {
+    "city": "Paranaque",
+    "area": "Ireneville Subdivision I & Ii",
+    "zip": 1719
+  },
+  {
+    "city": "Paranaque",
+    "area": "Manila Memorial Park",
+    "zip": 1717
+  },
+  {
+    "city": "Paranaque",
+    "area": "Marina Subd. (Reclamation)",
+    "zip": 1703
+  },
+  {
+    "city": "Paranaque",
+    "area": "Maywood I",
+    "zip": 1719
+  },
+  {
+    "city": "Paranaque",
+    "area": "Maywood Village Ii",
+    "zip": 1716
+  },
+  {
+    "city": "Paranaque",
+    "area": "Merville Park",
+    "zip": 1709
+  },
+  {
+    "city": "Paranaque",
+    "area": "Miramar Subdivision",
+    "zip": 1712
+  },
+  {
+    "city": "Paranaque",
+    "area": "Moonwalk",
+    "zip": 1709
+  },
+  {
+    "city": "Paranaque",
+    "area": "Multinational Village",
+    "zip": 1708
+  },
+  {
+    "city": "Paranaque",
+    "area": "Ninoy Aquino Int’l. Airport",
+    "zip": 1705
+  },
+  {
+    "city": "Paranaque",
+    "area": "Parañaque Cpo",
+    "zip": 1700
+  },
+  {
+    "city": "Paranaque",
+    "area": "Pulo",
+    "zip": 1706
+  },
+  {
+    "city": "Paranaque",
+    "area": "San Antonio Valley 11 & 12",
+    "zip": 1707
+  },
+  {
+    "city": "Paranaque",
+    "area": "San Antonio Valley I",
+    "zip": 1715
+  },
+  {
+    "city": "Paranaque",
+    "area": "South Admiral Village",
+    "zip": 1709
+  },
+  {
+    "city": "Paranaque",
+    "area": "Sto. Nino",
+    "zip": 1704
+  },
+  {
+    "city": "Paranaque",
+    "area": "Tambo",
+    "zip": 1701
+  },
+  {
+    "city": "Paranaque",
+    "area": "United Subd.",
+    "zip": 1713
+  },
+  {
+    "city": "Pasay",
+    "area": "Domestic Airport Po",
+    "zip": 1301
+  },
+  {
+    "city": "Pasay",
+    "area": "Manila Bay (Reclamation)",
+    "zip": 1308
+  },
+  {
+    "city": "Pasay",
+    "area": "Pasay city CPO Malibay",
+    "zip": 1300
+  },
+  {
+    "city": "Pasay",
+    "area": "PICC (Reclamation area)",
+    "zip": 1307
+  },
+  {
+    "city": "Pasay",
+    "area": "San Isidro",
+    "zip": 1306
+  },
+  {
+    "city": "Pasay",
+    "area": "San Jose",
+    "zip": 1305
+  },
+  {
+    "city": "Pasay",
+    "area": "San Rafael",
+    "zip": 1302
+  },
+  {
+    "city": "Pasay",
+    "area": "San Roque",
+    "zip": 1303
+  },
+  {
+    "city": "Pasay",
+    "area": "Santa Clara",
+    "zip": 1304
+  },
+  {
+    "city": "Pasay",
+    "area": "Villamor Airbase",
+    "zip": 1309
+  },
+  {
+    "city": "Pasig",
+    "area": "Caniogan",
+    "zip": 1606
+  },
+  {
+    "city": "Pasig",
+    "area": "Green Park",
+    "zip": 1612
+  },
+  {
+    "city": "Pasig",
+    "area": "Kapitolyo",
+    "zip": 1603
+  },
+  {
+    "city": "Pasig",
+    "area": "Manggahan",
+    "zip": 1611
+  },
+  {
+    "city": "Pasig",
+    "area": "Maybunga",
+    "zip": 1607
+  },
+  {
+    "city": "Pasig",
+    "area": "Ortigas PO",
+    "zip": 1605
+  },
+  {
+    "city": "Pasig",
+    "area": "Pasig CPO",
+    "zip": 1600
+  },
+  {
+    "city": "Pasig",
+    "area": "Pinagbuhatan",
+    "zip": 1602
+  },
+  {
+    "city": "Pasig",
+    "area": "Rosario",
+    "zip": 1609
+  },
+  {
+    "city": "Pasig",
+    "area": "San Joaquin",
+    "zip": 1601
+  },
+  {
+    "city": "Pasig",
+    "area": "Santolan",
+    "zip": 1610
+  },
+  {
+    "city": "Pasig",
+    "area": "Sta. Lucia",
+    "zip": 1608
+  },
+  {
+    "city": "Pasig",
+    "area": "Ugong",
+    "zip": 1604
+  },
+  {
+    "city": "Pateros",
+    "area": "Aguho",
+    "zip": 1620
+  },
+  {
+    "city": "Pateros",
+    "area": "Sta. Ana",
+    "zip": 1621
+  },
+  {
+    "city": "Quezon",
+    "area": "Alicia",
+    "zip": 1105
+  },
+  {
+    "city": "Quezon",
+    "area": "Amihan",
+    "zip": 1102
+  },
+  {
+    "city": "Quezon",
+    "area": "Apolonio Samson",
+    "zip": 1106
+  },
+  {
+    "city": "Quezon",
+    "area": "Baesa",
+    "zip": 1106
+  },
+  {
+    "city": "Quezon",
+    "area": "Bagbag",
+    "zip": 1116
+  },
+  {
+    "city": "Quezon",
+    "area": "Bagong Bayan",
+    "zip": 1110
+  },
+  {
+    "city": "Quezon",
+    "area": "Bagong Buhay",
+    "zip": 1109
+  },
+  {
+    "city": "Quezon",
+    "area": "Bagong Lipunan",
+    "zip": 1111
+  },
+  {
+    "city": "Quezon",
+    "area": "Bagong Pag-asa",
+    "zip": 1105
+  },
+  {
+    "city": "Quezon",
+    "area": "Bagong Silangan",
+    "zip": 1119
+  },
+  {
+    "city": "Quezon",
+    "area": "Bahay Toro",
+    "zip": 1106
+  },
+  {
+    "city": "Quezon",
+    "area": "Balingasa",
+    "zip": 1115
+  },
+  {
+    "city": "Quezon",
+    "area": "Balumbato",
+    "zip": 1106
+  },
+  {
+    "city": "Quezon",
+    "area": "Batasan Hills",
+    "zip": 1126
+  },
+  {
+    "city": "Quezon",
+    "area": "Bayanihan",
+    "zip": 1109
+  },
+  {
+    "city": "Quezon",
+    "area": "BF Homes",
+    "zip": 1120
+  },
+  {
+    "city": "Quezon",
+    "area": "Blue Ridge",
+    "zip": 1109
+  },
+  {
+    "city": "Quezon",
+    "area": "Botocan",
+    "zip": 1101
+  },
+  {
+    "city": "Quezon",
+    "area": "Bungad",
+    "zip": 1105
+  },
+  {
+    "city": "Quezon",
+    "area": "Camp Aguinaldo",
+    "zip": 1110
+  },
+  {
+    "city": "Quezon",
+    "area": "Capitol Hills/Park",
+    "zip": 1126
+  },
+  {
+    "city": "Quezon",
+    "area": "Capri",
+    "zip": 1117
+  },
+  {
+    "city": "Quezon",
+    "area": "Central",
+    "zip": 1100
+  },
+  {
+    "city": "Quezon",
+    "area": "Claro",
+    "zip": 1102
+  },
+  {
+    "city": "Quezon",
+    "area": "Commonwealth",
+    "zip": 1121
+  },
+  {
+    "city": "Quezon",
+    "area": "Crame",
+    "zip": 1111
+  },
+  {
+    "city": "Quezon",
+    "area": "Cubao",
+    "zip": 1109
+  },
+  {
+    "city": "Quezon",
+    "area": "Culiat",
+    "zip": 1128
+  },
+  {
+    "city": "Quezon",
+    "area": "Damar",
+    "zip": 1115
+  },
+  {
+    "city": "Quezon",
+    "area": "Damayan",
+    "zip": 1104
+  },
+  {
+    "city": "Quezon",
+    "area": "Damayan Lagi",
+    "zip": 1112
+  },
+  {
+    "city": "Quezon",
+    "area": "Damong Maliit",
+    "zip": 1123
+  },
+  {
+    "city": "Quezon",
+    "area": "Del Monte",
+    "zip": 1105
+  },
+  {
+    "city": "Quezon",
+    "area": "Diliman",
+    "zip": 1101
+  },
+  {
+    "city": "Quezon",
+    "area": "Dioquino Zobel",
+    "zip": 1109
+  },
+  {
+    "city": "Quezon",
+    "area": "Doña Imelda",
+    "zip": 1113
+  },
+  {
+    "city": "Quezon",
+    "area": "Don Manuel",
+    "zip": 1113
+  },
+  {
+    "city": "Quezon",
+    "area": "Doña Aurora",
+    "zip": 1113
+  },
+  {
+    "city": "Quezon",
+    "area": "Doña Faustina Subd",
+    "zip": 1125
+  },
+  {
+    "city": "Quezon",
+    "area": "Doña Josefa",
+    "zip": 1113
+  },
+  {
+    "city": "Quezon",
+    "area": "Duyan-duyan",
+    "zip": 1102
+  },
+  {
+    "city": "Quezon",
+    "area": "E. Rodriguez",
+    "zip": 1102
+  },
+  {
+    "city": "Quezon",
+    "area": "Escopa",
+    "zip": 1109
+  },
+  {
+    "city": "Quezon",
+    "area": "Fairview",
+    "zip": 1118
+  },
+  {
+    "city": "Quezon",
+    "area": "Fairview North",
+    "zip": 1121
+  },
+  {
+    "city": "Quezon",
+    "area": "Fairview South",
+    "zip": 1122
+  },
+  {
+    "city": "Quezon",
+    "area": "Gantol",
+    "zip": 1113
+  },
+  {
+    "city": "Quezon",
+    "area": "Gintong Silahis",
+    "zip": 1114
+  },
+  {
+    "city": "Quezon",
+    "area": "Gulod",
+    "zip": 1117
+  },
+  {
+    "city": "Quezon",
+    "area": "Holy Spirit",
+    "zip": 1127
+  },
+  {
+    "city": "Quezon",
+    "area": "Horseshoe",
+    "zip": 1112
+  },
+  {
+    "city": "Quezon",
+    "area": "Immaculate Concepcion",
+    "zip": 1111
+  },
+  {
+    "city": "Quezon",
+    "area": "Kaligayahan",
+    "zip": 1124
+  },
+  {
+    "city": "Quezon",
+    "area": "Kalusugan",
+    "zip": 1112
+  },
+  {
+    "city": "Quezon",
+    "area": "Kamias",
+    "zip": 1102
+  },
+  {
+    "city": "Quezon",
+    "area": "Kamuning",
+    "zip": 1103
+  },
+  {
+    "city": "Quezon",
+    "area": "Katipunan",
+    "zip": 1105
+  },
+  {
+    "city": "Quezon",
+    "area": "Kaunlaran",
+    "zip": 1111
+  },
+  {
+    "city": "Quezon",
+    "area": "Kristong Hari",
+    "zip": 1112
+  },
+  {
+    "city": "Quezon",
+    "area": "Krus Na Ligas",
+    "zip": 1101
+  },
+  {
+    "city": "Quezon",
+    "area": "La Loma",
+    "zip": 1114
+  },
+  {
+    "city": "Quezon",
+    "area": "Langing Handa",
+    "zip": 1103
+  },
+  {
+    "city": "Quezon",
+    "area": "Libis",
+    "zip": 1110
+  },
+  {
+    "city": "Quezon",
+    "area": "Lourdes",
+    "zip": 1114
+  },
+  {
+    "city": "Quezon",
+    "area": "Loyola Heights",
+    "zip": 1108
+  },
+  {
+    "city": "Quezon",
+    "area": "Maharlika",
+    "zip": 1114
+  },
+  {
+    "city": "Quezon",
+    "area": "Malaya",
+    "zip": 1101
+  },
+  {
+    "city": "Quezon",
+    "area": "Mangga",
+    "zip": 1109
+  },
+  {
+    "city": "Quezon",
+    "area": "Manresa",
+    "zip": 1115
+  },
+  {
+    "city": "Quezon",
+    "area": "Mariana",
+    "zip": 1112
+  },
+  {
+    "city": "Quezon",
+    "area": "Mariblo",
+    "zip": 1104
+  },
+  {
+    "city": "Quezon",
+    "area": "Marilag",
+    "zip": 1109
+  },
+  {
+    "city": "Quezon",
+    "area": "Masagana",
+    "zip": 1109
+  },
+  {
+    "city": "Quezon",
+    "area": "Masambong",
+    "zip": 1115
+  },
+  {
+    "city": "Quezon",
+    "area": "Matalahib",
+    "zip": 1114
+  },
+  {
+    "city": "Quezon",
+    "area": "Matandang Balara",
+    "zip": 1119
+  },
+  {
+    "city": "Quezon",
+    "area": "Milagrosa",
+    "zip": 1109
+  },
+  {
+    "city": "Quezon",
+    "area": "Nagkaisang Nayon",
+    "zip": 1125
+  },
+  {
+    "city": "Quezon",
+    "area": "Nayon Kaunlaran",
+    "zip": 1104
+  },
+  {
+    "city": "Quezon",
+    "area": "New Era",
+    "zip": 1107
+  },
+  {
+    "city": "Quezon",
+    "area": "Novaliches Proper",
+    "zip": 1121
+  },
+  {
+    "city": "Quezon",
+    "area": "Obrero",
+    "zip": 1103
+  },
+  {
+    "city": "Quezon",
+    "area": "Old Capitol Site",
+    "zip": 1101
+  },
+  {
+    "city": "Quezon",
+    "area": "Paang Bundok",
+    "zip": 1114
+  },
+  {
+    "city": "Quezon",
+    "area": "Pag-ibig Sa Nayon",
+    "zip": 1115
+  },
+  {
+    "city": "Quezon",
+    "area": "Paligsahan",
+    "zip": 1103
+  },
+  {
+    "city": "Quezon",
+    "area": "Paltok",
+    "zip": 1105
+  },
+  {
+    "city": "Quezon",
+    "area": "Pansol",
+    "zip": 1108
+  },
+  {
+    "city": "Quezon",
+    "area": "Paraiso",
+    "zip": 1104
+  },
+  {
+    "city": "Quezon",
+    "area": "Pasong Putik",
+    "zip": 1118
+  },
+  {
+    "city": "Quezon",
+    "area": "Pasong Tamo",
+    "zip": 1107
+  },
+  {
+    "city": "Quezon",
+    "area": "Payatas",
+    "zip": 1119
+  },
+  {
+    "city": "Quezon",
+    "area": "Phil-am",
+    "zip": 1104
+  },
+  {
+    "city": "Quezon",
+    "area": "Pinagkaisahan",
+    "zip": 1111
+  },
+  {
+    "city": "Quezon",
+    "area": "Piñahan",
+    "zip": 1100
+  },
+  {
+    "city": "Quezon",
+    "area": "Project 4",
+    "zip": 1109
+  },
+  {
+    "city": "Quezon",
+    "area": "Project 6",
+    "zip": 1100
+  },
+  {
+    "city": "Quezon",
+    "area": "Project 7",
+    "zip": 1105
+  },
+  {
+    "city": "Quezon",
+    "area": "Project 8",
+    "zip": 1106
+  },
+  {
+    "city": "Quezon",
+    "area": "Quezon city Cpo",
+    "zip": 1100
+  },
+  {
+    "city": "Quezon",
+    "area": "Quirino Dist. (Proj. 2 & 3)",
+    "zip": 1102
+  },
+  {
+    "city": "Quezon",
+    "area": "R. Magsaysay",
+    "zip": 1105
+  },
+  {
+    "city": "Quezon",
+    "area": "Roxas District",
+    "zip": 1103
+  },
+  {
+    "city": "Quezon",
+    "area": "Sacred Heart",
+    "zip": 1103
+  },
+  {
+    "city": "Quezon",
+    "area": "Salumbato",
+    "zip": 1106
+  },
+  {
+    "city": "Quezon",
+    "area": "Salvacion",
+    "zip": 1114
+  },
+  {
+    "city": "Quezon",
+    "area": "San Agustin",
+    "zip": 1117
+  },
+  {
+    "city": "Quezon",
+    "area": "San Antonio",
+    "zip": 1105
+  },
+  {
+    "city": "Quezon",
+    "area": "San Bartolome",
+    "zip": 1116
+  },
+  {
+    "city": "Quezon",
+    "area": "San Isidro",
+    "zip": 1113
+  },
+  {
+    "city": "Quezon",
+    "area": "San Isidro Labrador",
+    "zip": 1114
+  },
+  {
+    "city": "Quezon",
+    "area": "San Jose",
+    "zip": 1115
+  },
+  {
+    "city": "Quezon",
+    "area": "San Roque",
+    "zip": 1109
+  },
+  {
+    "city": "Quezon",
+    "area": "San Vicente",
+    "zip": 1101
+  },
+  {
+    "city": "Quezon",
+    "area": "Sangandaan",
+    "zip": 1116
+  },
+  {
+    "city": "Quezon",
+    "area": "Santa Cruz",
+    "zip": 1104
+  },
+  {
+    "city": "Quezon",
+    "area": "Santa Lucia",
+    "zip": 1117
+  },
+  {
+    "city": "Quezon",
+    "area": "Santa Monica",
+    "zip": 1117
+  },
+  {
+    "city": "Quezon",
+    "area": "Santa Teresita",
+    "zip": 1114
+  },
+  {
+    "city": "Quezon",
+    "area": "Sauyo",
+    "zip": 1116
+  },
+  {
+    "city": "Quezon",
+    "area": "Sienna",
+    "zip": 1114
+  },
+  {
+    "city": "Quezon",
+    "area": "Sikatuna Village",
+    "zip": 1101
+  },
+  {
+    "city": "Quezon",
+    "area": "Silangan",
+    "zip": 1102
+  },
+  {
+    "city": "Quezon",
+    "area": "Socorro",
+    "zip": 1109
+  },
+  {
+    "city": "Quezon",
+    "area": "South Triangle",
+    "zip": 1103
+  },
+  {
+    "city": "Quezon",
+    "area": "St. Ignatius",
+    "zip": 1110
+  },
+  {
+    "city": "Quezon",
+    "area": "St. Martin De Porres",
+    "zip": 1111
+  },
+  {
+    "city": "Quezon",
+    "area": "St. Peter",
+    "zip": 1114
+  },
+  {
+    "city": "Quezon",
+    "area": "Sto. Cristo",
+    "zip": 1105
+  },
+  {
+    "city": "Quezon",
+    "area": "Sto. Nino",
+    "zip": 1113
+  },
+  {
+    "city": "Quezon",
+    "area": "Tagumpay",
+    "zip": 1109
+  },
+  {
+    "city": "Quezon",
+    "area": "Talampas",
+    "zip": 1110
+  },
+  {
+    "city": "Quezon",
+    "area": "Talayan",
+    "zip": 1104
+  },
+  {
+    "city": "Quezon",
+    "area": "Talipapa",
+    "zip": 1116
+  },
+  {
+    "city": "Quezon",
+    "area": "Tandang Sora",
+    "zip": 1116
+  },
+  {
+    "city": "Quezon",
+    "area": "Tatalon",
+    "zip": 1113
+  },
+  {
+    "city": "Quezon",
+    "area": "Teachers Village",
+    "zip": 1101
+  },
+  {
+    "city": "Quezon",
+    "area": "Ugong Norte",
+    "zip": 1110
+  },
+  {
+    "city": "Quezon",
+    "area": "Unang Sigaw",
+    "zip": 1106
+  },
+  {
+    "city": "Quezon",
+    "area": "Univ. of the Phils. PO",
+    "zip": 1101
+  },
+  {
+    "city": "Quezon",
+    "area": "UP Village",
+    "zip": 1101
+  },
+  {
+    "city": "Quezon",
+    "area": "Valencia",
+    "zip": 1112
+  },
+  {
+    "city": "Quezon",
+    "area": "Vasra",
+    "zip": 1128
+  },
+  {
+    "city": "Quezon",
+    "area": "Veterans Village",
+    "zip": 1105
+  },
+  {
+    "city": "Quezon",
+    "area": "Villa Maria Clara",
+    "zip": 1109
+  },
+  {
+    "city": "San Juan",
+    "area": "Eisenhower-Crame",
+    "zip": 1504
+  },
+  {
+    "city": "San Juan",
+    "area": "Greenhills North",
+    "zip": 1503
+  },
+  {
+    "city": "San Juan",
+    "area": "Greenhills PO",
+    "zip": 1502
+  },
+  {
+    "city": "San Juan",
+    "area": "San Juan CPO",
+    "zip": 1500
+  },
+  {
+    "city": "Taguig",
+    "area": "Bay Breeze Exec. Village",
+    "zip": 1636
+  },
+  {
+    "city": "Taguig",
+    "area": "Bicutan",
+    "zip": 1631
+  },
+  {
+    "city": "Taguig",
+    "area": "Bicutan Lower",
+    "zip": 1632
+  },
+  {
+    "city": "Taguig",
+    "area": "Bicutan Upper",
+    "zip": 1633
+  },
+  {
+    "city": "Taguig",
+    "area": "Bicutan Western",
+    "zip": 1630
+  },
+  {
+    "city": "Taguig",
+    "area": "Bonifacio Global city",
+    "zip": 1635
+  },
+  {
+    "city": "Taguig",
+    "area": "Ligid",
+    "zip": 1638
+  },
+  {
+    "city": "Taguig",
+    "area": "Nichols - Mckinley",
+    "zip": 1634
+  },
+  {
+    "city": "Taguig",
+    "area": "Tuktukan",
+    "zip": 1637
+  },
+  {
+    "city": "Taguig",
+    "area": "Ususan",
+    "zip": 1639
+  },
+  {
+    "city": "Valenzuela",
+    "area": "Arkong Bato-Rincon-Pasolo-Malanday-Mabolo-Polo",
+    "zip": 1444
+  },
+  {
+    "city": "Valenzuela",
+    "area": "Balangkas-Caloong",
+    "zip": 1445
+  },
+  {
+    "city": "Valenzuela",
+    "area": "Dalandan - West Canumay",
+    "zip": 1443
+  },
+  {
+    "city": "Valenzuela",
+    "area": "East Canumay - Lawang Bato Pun",
+    "zip": 1447
+  },
+  {
+    "city": "Valenzuela",
+    "area": "Fortune Vil. - Paso De Blas - Gen. T. De Leon",
+    "zip": 1442
+  },
+  {
+    "city": "Valenzuela",
+    "area": "Karuhatan",
+    "zip": 1441
+  },
+  {
+    "city": "Valenzuela",
+    "area": "Lingunan",
+    "zip": 1446
+  },
+  {
+    "city": "Valenzuela",
+    "area": "Mapulang Lupa",
+    "zip": 1448
+  },
+  {
+    "city": "Valenzuela",
+    "area": "Valenzuela CPO - Malinta",
+    "zip": 1440
+  },
+  {
+    "city": "Valenzuela",
+    "area": "Valenzuela P.O. Boxes",
+    "zip": 1469
+  }
+]
